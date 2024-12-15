@@ -8,7 +8,7 @@ const passwordError = document.getElementById("passwordError");
 const submitPasswordButton = document.getElementById("submitPassword");
 
 const questions = [
-		{ question: "What era of gutenberg , witch is the word of mouth is the way of transition of information ", answer: "Pre-Gutenberg" },
+		{ question: "What era of gutenberg , witch is the word of mouth is the way of transmission of information ", answer: "Pre-Gutenberg" },
 		{ question: "What is the natural extinction rate", answer: "1 to 5 per year" },
 		{ question: "BASTA", answer: "Social media" },
 		{ question: "Threats to biodiversity using HIPPO", answer: "HUMAN CAUSE, INVASIVE SPECIES, POLLUTION, Population of human, OVERHARVISTING" },
